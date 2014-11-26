@@ -34,6 +34,7 @@ public class Pg {
 		t.inscrireUnParticipant("paul");
 		t.inscrireUnParticipant("jordann");
 		t.inscrireUnParticipant("habib");
+		t.inscrireUnParticipant("johary");
 		
 		t.afficheParticipants();
 		//t.jouerTournoi();
