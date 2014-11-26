@@ -20,17 +20,17 @@ public class Pg {
 		
 		Tournoi t = new Tournoi();
 		
-		/*t.nomDuTournoi = "Roland Garros";
+		t.nomDuTournoi = "Roland Garros";
 		
 		System.out.println("Le tournoi se nomme : " + t.nomDuTournoi);
 		
 		t.inscrireUnParticipant("Jer");
 		t.inscrireUnParticipant("Marjo");
-		t.inscrireUnParticipant("Martin");*/
+		t.inscrireUnParticipant("Martin");
 		
-		//t.afficheParticipants();
-		t.jouerTournoi();
-		t.afficherVainqueur();
+		t.afficheParticipants();
+		//t.jouerTournoi();
+		//t.afficherVainqueur();
 
 	}
 	
